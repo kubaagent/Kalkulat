@@ -1,0 +1,8 @@
+﻿cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  WindowsFormApplication1.cpp
+c:\users\user\downloads\shits\szablonisposbdodawaniadovs2013\windowsformapplication1\windowsformapplication1\Form1.h(411): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\downloads\shits\szablonisposbdodawaniadovs2013\windowsformapplication1\windowsformapplication1\Form1.h(416): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\downloads\shits\szablonisposbdodawaniadovs2013\windowsformapplication1\windowsformapplication1\Form1.h(455): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\downloads\shits\szablonisposbdodawaniadovs2013\windowsformapplication1\windowsformapplication1\Form1.h(460): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\downloads\shits\szablonisposbdodawaniadovs2013\windowsformapplication1\windowsformapplication1\Form1.h(465): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  WindowsFormApplication1.vcxproj -> C:\Users\User\Downloads\shits\szablonisposbdodawaniadovs2013\WindowsFormApplication1\Debug\WindowsFormApplication1.exe
